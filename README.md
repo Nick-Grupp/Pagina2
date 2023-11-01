@@ -1,7 +1,7 @@
 # Pagina2
 <p style="text-align: center;"><strong><span style="font-size: 20px; color: red;">MI BIOGRAFIA</span></strong></p>
 <p style="text-align: center;"><span style="font-size: 18px; color: red;">TRABAJO PARA LA UNIVERSIDAD CATOLICA SAN PABLO</span></p>
-<p style="text-align: center;"><span style="font-size: 18px;"><span style="color: red;">CIENCIAS ** LA COMPUTACI&Oacute;N</span></span></p>
+<p style="text-align: center;"><span style="font-size: 18px;"><span style="color: red;">CIENCIAS DE LA COMPUTACI&Oacute;N</span></span></p>
 <p style="text-align: center;"><span style="font-size: 18px; color: red;">2023</span></p>
 <p style="text-align: center;"><br></p>
 <p style="text-align: left;"><strong><span style="font-size: 22px;">AUTOR:</span></strong><span style="font-size: 22px;">&nbsp;Nicol&aacute;s Grupp</span></p>
@@ -53,7 +53,7 @@
 <p><strong><br></strong></p>
 <p><img src="https://myfiles.space/user_files/180061_602ab71bdb203d45/180061_custom_files/img1698038093.png" width="225" height="225" style="margin: 0 auto; display: block; "></p>
 <ul>
-    <li style="font-weight: bold;"><strong>Desde peque&ntilde;o practico bastantes deportes, comenc&eacute; con las artes marciales acompa&ntilde;adas del futbol y la nataci&oacute;n, pero por problemas de ***** tuve que dejarlos. Donde mas adelante luego de recuperarme jugar&iacute;a b&aacute;squet, actividad que hago hasta el d&iacute;a de hoy. &nbsp;</strong></li>
+    <li style="font-weight: bold;"><strong>Desde peque&ntilde;o practico bastantes deportes, comenc&eacute; con las artes marciales acompa&ntilde;adas del futbol y la nataci&oacute;n, pero por problemas tuve que dejarlos. Donde mas adelante luego de recuperarme jugar&iacute;a b&aacute;squet, actividad que hago hasta el d&iacute;a de hoy. &nbsp;</strong></li>
 </ul>
 <p><strong><br></strong></p>
 <p><img src="https://myfiles.space/user_files/180061_602ab71bdb203d45/180061_custom_files/img1698038106.jpeg" width="300" height="168" style="margin: 0 auto; display: block; "></p>
@@ -67,6 +67,6 @@
 <p><br></p>
 <hr>
 <p><br></p>
-<p style="text-align: center;"><span style="color: rgb(71, 85, 119); font-size: 20px;"><strong>Estos han sido algunos datos ***** mi y mi vida.&nbsp;</strong></span></p>
+<p style="text-align: center;"><span style="color: rgb(71, 85, 119); font-size: 20px;"><strong>Estos han sido algunos datos mios.&nbsp;</strong></span></p>
 <p style="text-align: center;"><span style="color: rgb(71, 85, 119); font-size: 20px;"><strong>Gracias por la atenci&oacute;n.</strong></span></p>
 <div style="color: red;">Prueba Word to HTML - <a href="https://wordtohtml.net/site/payment">P&aacute;sate a PRO</a>.</div>
