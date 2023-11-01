@@ -69,4 +69,4 @@
 <p><br></p>
 <p style="text-align: center;"><span style="color: rgb(71, 85, 119); font-size: 20px;"><strong>Estos han sido algunos datos mios.&nbsp;</strong></span></p>
 <p style="text-align: center;"><span style="color: rgb(71, 85, 119); font-size: 20px;"><strong>Gracias por la atenci&oacute;n.</strong></span></p>
-<div style="color: red;">Prueba Word to HTML - <a href="https://wordtohtml.net/site/payment">P&aacute;sate a PRO</a>.</div>
+
