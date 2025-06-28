@@ -1,4 +1,4 @@
-# Pagina2
+# MI PAGINA WEB
 <p style="text-align: center;"><strong><span style="font-size: 20px; color: red;">MI BIOGRAFIA</span></strong></p>
 <p style="text-align: center;"><span style="font-size: 18px; color: red;">TRABAJO PARA LA UNIVERSIDAD CATÓLICA SAN PABLO</span></p>
 <p style="text-align: center;"><span style="font-size: 18px;"><span style="color: red;">INGENIERIA INDUSTRIAL</span></span></p>
