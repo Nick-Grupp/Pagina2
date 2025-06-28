@@ -1,7 +1,7 @@
 # Pagina2
 <p style="text-align: center;"><strong><span style="font-size: 20px; color: red;">MI BIOGRAFIA</span></strong></p>
 <p style="text-align: center;"><span style="font-size: 18px; color: red;">TRABAJO PARA LA UNIVERSIDAD CATÓLICA SAN PABLO</span></p>
-<p style="text-align: center;"><span style="font-size: 18px;"><span style="color: red;">CIENCIAS DE LA COMPUTACI&Oacute;N</span></span></p>
+<p style="text-align: center;"><span style="font-size: 18px;"><span style="color: red;">INGENIERIA INDUSTRIAL</span></span></p>
 <p style="text-align: center;"><span style="font-size: 18px; color: red;">2023</span></p>
 <p style="text-align: center;"><br></p>
 <p style="text-align: left;"><strong><span style="font-size: 22px;">AUTOR:</span></strong><span style="font-size: 22px;">&nbsp;Nicol&aacute;s Grupp</span></p>
