@@ -38,13 +38,11 @@
 <p><strong>2. DATOS EXTRA:</strong></p>
 <p><br></p>
 <ul>
-    <li><strong> Algo que me preguntan de vez en cuando es por mi apellido Grupp, en forma resumida es un apellido Europeo, para ser mas exactos se dice que proviene de Alemania, generaciones atr&aacute;s mi tatarabuelo, sali&oacute; de Alemania y llego a Latinoam&eacute;rica, exactamente en Bolivia. Donde  mas adelante vendr&iacute;a ** &nbsp;Per&uacute; donde formo su familia.&nbsp;</strong></li>
-</ul>
 <p><br></p>
 <p><img src="https://myfiles.space/user_files/180061_602ab71bdb203d45/180061_custom_files/img1698038032.jpeg" width="315" height="160" style="margin: 0 auto; display: block; "></p>
 <p><br></p>
 <ul>
-    <li style="font-weight: bold;"><strong>Mi comida favorita son los makis o mejor conocido como sushi.</strong></li>
+    <li style="font-weight: bold;"><strong>Mi comida favorita son los makis .</strong></li>
 </ul>
 <p><img src="https://myfiles.space/user_files/180061_602ab71bdb203d45/180061_custom_files/img1698038049.jpeg" width="284" height="177" style="margin: 0 auto; display: block; "></p>
 <ul>
