@@ -39,8 +39,6 @@
 <p><br></p>
 <ul>
 <p><br></p>
-<p><img src="https://myfiles.space/user_files/180061_602ab71bdb203d45/180061_custom_files/img1698038032.jpeg" width="315" height="160" style="margin: 0 auto; display: block; "></p>
-<p><br></p>
 <ul>
     <li style="font-weight: bold;"><strong>Mi comida favorita son los makis .</strong></li>
 </ul>
@@ -51,13 +49,13 @@
 <p><strong><br></strong></p>
 <p><img src="https://myfiles.space/user_files/180061_602ab71bdb203d45/180061_custom_files/img1698038093.png" width="225" height="225" style="margin: 0 auto; display: block; "></p>
 <ul>
-    <li style="font-weight: bold;"><strong>Desde peque&ntilde;o practico bastantes deportes, comenc&eacute; con las artes marciales acompa&ntilde;adas del futbol y la nataci&oacute;n, pero por problemas tuve que dejarlos. Donde mas adelante luego de recuperarme jugar&iacute;a b&aacute;squet, actividad que hago hasta el d&iacute;a de hoy. &nbsp;</strong></li>
+    <li style="font-weight: bold;"><strong>Desde peque&ntilde;o practico bastantes deportes, comenc&eacute; con las artes marciales acompa&ntilde;adas del basket, futbol y la nataci&oacute;n. &nbsp;</strong></li>
 </ul>
 <p><strong><br></strong></p>
 <p><img src="https://myfiles.space/user_files/180061_602ab71bdb203d45/180061_custom_files/img1698038106.jpeg" width="300" height="168" style="margin: 0 auto; display: block; "></p>
 <p><strong><br></strong></p>
 <ul>
-    <li style="font-weight: bold;"><strong>Tengo dos mascotas, dos schnauzer, la hembrita que se llama Luna y el macho que se llama Chester.</strong></li>
+    <li style="font-weight: bold;"><strong>Estoy en mi segundo año de Industrial en la Universidad Catolica San Pablo.</strong></li>
 </ul>
 <p></p>
 <p><br></p><img src="https://myfiles.space/user_files/180061_602ab71bdb203d45/180061_custom_files/img1698038116.jpeg" width="290" height="174" style="margin: 0 auto; display: block; ">
